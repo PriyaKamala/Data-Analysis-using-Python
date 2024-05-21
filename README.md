@@ -20,4 +20,4 @@ After having cleaned the datasets by removing all the unnecessary columns we go 
 7:Calculating a correlation Matrix which indicates the Correlation Coefficient between the various fields
 8:Visualizing the results of our Analysis using Seaborn and Matplotlib packages.
 
-Please refer the 'Data Analysis using Python Notebook' for detailed explanation and visualizations.
+Please refer the 'Covid 19 Data Analysis Notebook' for detailed explanation and visualizations.
