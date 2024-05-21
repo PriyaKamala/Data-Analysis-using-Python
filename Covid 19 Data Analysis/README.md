@@ -21,3 +21,8 @@ After having cleaned the datasets by removing all the unnecessary columns we go 
 8:Visualizing the results of our Analysis using Seaborn and Matplotlib packages.
 
 Please refer the 'Covid 19 Data Analysis Notebook' for detailed explanation and visualizations.
+
+One Aspect of the Analysis is that the visualization indicates that more developed countries show a greater rate of infection to Covid 19 as compared to less developed countries.This could be due to below factors:
+1:Lack of sufficient number of Covid testing kits in the poorly developed countries due to which the the actual number of 
+infected cases were not recorded.
+2:It could also be due the fact that in the highly developed countries we have more people travelling in and out on a regular basis or maybe an already infected person may have landed in a country and that could have led to the spread of the infection.
