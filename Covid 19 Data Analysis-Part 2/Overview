@@ -6,7 +6,8 @@ we are going to use Plotly module, which is a great visualization tool in python
 
 
 Project Structure
-The hands on project on COVID19 Data Visualization using Python is divided into following tasks:
+
+Dataset Used:'https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv'
 
 Task 1: Introduction
 Understanding the purpose of the project, the dataset that will be used, and the questions that will be answered with the analysis    
