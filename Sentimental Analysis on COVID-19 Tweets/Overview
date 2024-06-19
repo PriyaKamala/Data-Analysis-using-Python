@@ -1,0 +1,15 @@
+Sentimental Analysis on COVID-19 Tweets using pythonis divided into following :
+
+*Loading our Dataset    
+
+*Text preprocessing     
+  Preprocess and prepare our text data for Sentimental Analysis 
+
+*Visualization
+ we will visualize most common words using a bar chart.
+
+*Sentimental Analysis    
+  We will use NLTK module to produce Polarity scores for each tweet  
+
+*Visualizing the Result    
+  we will visualize the result of our analysis using line chart  
